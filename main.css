@@ -1,13 +1,9 @@
 
-
 h1 {
   font-size: 40px;
   font-family: Arial
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> a3f46f2db9c6cb58ee46d3c508d477ff67d9cfd8
 h2 {
   font-size: 25px;
   font-family: Arial
@@ -15,19 +11,12 @@ h2 {
 h3 {
   font-family: Arial
 }
-<<<<<<< HEAD
-=======
 
-h3 {
-  font-family: Arial
-}
-
->>>>>>> a3f46f2db9c6cb58ee46d3c508d477ff67d9cfd8
 p {
   font-size: 14px;
   font-family: Arial
 }
-<<<<<<< HEAD
+
 th, td {
   padding: 8px;
   text-align: left;
@@ -38,7 +27,7 @@ th, td {
 tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
-=======
+
 div{
   background-color: blue;
   text-align: right;
@@ -47,8 +36,5 @@ div{
 
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> a3f46f2db9c6cb58ee46d3c508d477ff67d9cfd8
->>>>>>> origin/main
+
