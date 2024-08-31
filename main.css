@@ -4,6 +4,7 @@ h1 {
   font-size: 40px;
   font-family: Arial
 }
+
 h2 {
   font-size: 25px;
   font-family: Arial
@@ -11,6 +12,11 @@ h2 {
 h3 {
   font-family: Arial
 }
+
+h3 {
+  font-family: Arial
+}
+
 p {
   font-size: 14px;
   font-family: Arial
@@ -19,4 +25,7 @@ div{
   background-color: darkcyan;
   text-align: right;
 }
+
+
+
 
